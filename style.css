@@ -1,0 +1,19 @@
+body {
+    font-family: "Yu Gothic", sans-serif;
+    background: #fffaf3;
+    color: #4a3b2f;
+    margin: 20px;
+    line-height: 1.8;
+}
+
+h1 {
+    color: #8b4513;
+}
+
+h2 {
+    color: #b85c38;
+}
+
+a {
+    color: #b85c38;
+}
